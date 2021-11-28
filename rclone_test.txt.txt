@@ -1,0 +1,5 @@
+[rclone]
+type = drive
+scope = drive
+root_folder_id = 1GyTypBEvRC4npJVp8e2TqynhmmypfIqf
+token = {"access_token":"ya29.a0ARrdaM8jlnwJeFKfRQQ4fB8upJm5hOgPEj7RJAm9e5j1YnHMXC07tvNDr4XS1l-LcUMiKesj0EXPkX-8h-75YMeZ6hlHr2ZBbyAXga2yDo5XPH__lxkG5YdvPvTCNmJz-bcO8vXAqQ_-sOnig_7H1U7rK_Fc","token_type":"Bearer","refresh_token":"1//0gruznpZAF1T2CgYIARAAGBASNwF-L9IrexjjbjT4gFtFxeuX4BINcUPlfqmtdX4GJiuklKMh67i8o_T_UUSiXvVI_I2aHfwl1HE","expiry":"2021-11-28T15:34:47.0768228+05:30"}
